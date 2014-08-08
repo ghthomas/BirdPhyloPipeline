@@ -3,7 +3,7 @@
 ### Additions of species or sequences will not generally be recorded.
 ### Changes to exisitng accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
-[8/10/2014] Updating accessions file from Amaurospiza_moesta [1] to Aphelocoma_coerulescens [500] (411 new sequences added)
+[8/10/2014] Updating accessions file from Amaurospiza_moesta [1] to Arachnothera_magna [550] (435 new sequences added)
 
 [8/10/2014] Acrocephalus palustris (S11): cytochrome-b data is from genbank accession number EU016091. 
 The genbank taxonomy lists this species as Acrocephalus palustris sinensis. However, the study title suggests 
