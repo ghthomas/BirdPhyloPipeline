@@ -2,3 +2,6 @@
 ### The file SequenceAccessions_Jetz_et_al.csv is not intended for editing.
 ### Additions of species or sequences will not generally be recorded.
 ### Changes to exisitng accessions (e.g. if species assignment in genbank is incorrect) should be documented.
+
+[8/10/2014] Acrocephalus palustris (S11): cytochrome-b data is from genbank accession number EU016091. The genbank taxonomy lists this species as Acrocephalus palustris sinensis. However, the study title suggests that this is the Japanese marsh warbler (Locustella paulstris sinensis - a subspecies of Megalurus palustris following the Jetz et al taxonomy). It is clearly not A. palustris. Source for cyt-b for A. palustris changed to AJ004774 
+  
