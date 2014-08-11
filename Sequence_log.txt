@@ -3,6 +3,8 @@
 ### Additions of species or sequences will not generally be recorded.
 ### Changes to exisitng accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
+[11/8/2014] Added accessions to Cyrtonyx_ocellatus [7548]. Approaching 300 new species.
+
 [10/8/2014] Added accessions from Babax_koslowi [6992] to Chamaeza_turdina [7208]
 
 [9/8/2014] Added more new sequences from Aplonis_atrifusca [6859] to Aythya_novaeseelandiae [6991]
