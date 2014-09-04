@@ -4,6 +4,8 @@ Log of updates to sequence data
 This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Additions of species or sequences will not generally be recorded.
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
+[4/9/2014] More seqences, only P-T left. Over 7300 species with data.
+
 [3/9/2014] Added accessions to Myzomela_wakoloensis [8609].
 
 [2/9/2014] Added accessions to Hypsipetes_virescens [8118]. Over 7100 species with sequence data.
