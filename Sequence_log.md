@@ -4,6 +4,8 @@ Log of updates to sequence data
 This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Additions of species or sequences will not generally be recorded.
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
+[5/9/2014] Added accessions to Phytotoma_raimondii [9028]. 7434 species with data.
+
 [4/9/2014] More seqences, only P-T left. Over 7300 species with data.
 
 [3/9/2014] Added accessions to Myzomela_wakoloensis [8609].
@@ -20,8 +22,5 @@ Changes to existing accessions (e.g. if species assignment in genbank is incorre
 
 [8/8/2014] Updating accessions file from Amaurospiza_moesta [1] to Basileuterus_basilicus [700] (616 new sequences added)
 
-[8/8/2014] Acrocephalus palustris (S11): cytochrome-b data is from genbank accession number EU016091. 
-The genbank taxonomy lists this species as Acrocephalus palustris sinensis. However, the study title suggests 
-that this is the Japanese marsh warbler (Locustella paulstris sinensis - a subspecies of Megalurus palustris 
-following the Jetz et al taxonomy). It is clearly not A. palustris. Source for cyt-b for A. palustris changed to AJ004774 
+[8/8/2014] Acrocephalus palustris (S11): cytochrome-b data is from genbank accession number EU016091. The genbank taxonomy lists this species as Acrocephalus palustris sinensis. However, the study title suggests that this is the Japanese marsh warbler (Locustella paulstris sinensis - a subspecies of Megalurus palustris following the Jetz et al taxonomy). It is clearly not A. palustris. Source for cyt-b for A. palustris changed to AJ004774 
   
