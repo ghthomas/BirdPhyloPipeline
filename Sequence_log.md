@@ -4,6 +4,8 @@ Log of updates to sequence data
 This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Additions of species or sequences will not generally be recorded.
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
+[8/9/2014] Updating accessions file to Carpodacus_vinaceus [1098]
+
 [7/9/2014] Updating accessions file to Bycanistes_bucinator [875] 
 
 [7/9/2014] Finished updating accessions list for missing species. 7799 species with sequence data from at least one of the loci used in Jetz et al. 
