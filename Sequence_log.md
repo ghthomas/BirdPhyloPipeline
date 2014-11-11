@@ -4,6 +4,10 @@ Log of updates to sequence data
 This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Additions of species or sequences will not generally be recorded.
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
+[11/11/2014] Updating accessions file to Chondestes_grammacus [1352]
+
+[9/9/2014] Updating accessions file to Ceryle_rudis [1216]
+
 [8/9/2014] Updating accessions file to Carpodacus_vinaceus [1098]
 
 [7/9/2014] Updating accessions file to Bycanistes_bucinator [875] 
