@@ -4,6 +4,11 @@ Log of updates to sequence data
 This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Additions of species or sequences will not generally be recorded.
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
+
+[15/11/2014] Updated cytb from Colaptes_atricollis [1500] to Dysithamnus_plumbeus [2059]
+
+[15/11/2014] Updating accessions file to Coereba_flaveola [1499]
+
 [11/11/2014] Updating accessions file to Cicinnurus_respublica [1384]
 
 [9/9/2014] Updating accessions file to Ceryle_rudis [1216]
