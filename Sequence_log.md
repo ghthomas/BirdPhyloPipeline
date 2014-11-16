@@ -5,6 +5,8 @@ This file contains notes on revisions to the sequence accession file SequenceAcc
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
 
+[16/11/2014] Updated cytb from Eclectus_roratus [2060] to Lymnocryptes_minimus [3367]
+
 [15/11/2014] Updated cytb from Colaptes_atricollis [1500] to Dysithamnus_plumbeus [2059]
 
 [15/11/2014] Updating accessions file to Coereba_flaveola [1499]
