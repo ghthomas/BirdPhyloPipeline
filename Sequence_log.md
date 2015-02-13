@@ -4,6 +4,10 @@ Log of updates to sequence data
 This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Additions of species or sequences will not generally be recorded.
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
+[13/02/2015] All sequences updated. Last checks on new loci and recent publications to do.
+
+[20/11/2014] Updated all ODC
+
 [18/11/2014] Updated ODC to Dysithamnus_plumbeus [2059]
 
 [17/11/2014] Updated cytb to Zosterops_wallacei [6650]
