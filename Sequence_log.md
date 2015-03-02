@@ -4,6 +4,32 @@ Log of updates to sequence data
 This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Additions of species or sequences will not generally be recorded.
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
+[03/02/2015] Accessions file completed. Added new loci (TGFB2, Rho1, ACO1, MUSK, AK1, RAG2, CMOS, MYC) plus synonym checks on species names. Total now 8067 species with at least one loci sequenced. Gene totals are below for Jetz et al, Burleigh et al (supermatrix) and new data.
+
+|  Loci  |  Jetz et al  |  Burleigh et al  |  New  |
+|:------:|:------------:|:----------------:|:-----:|
+|cytb    |4868          |4898              |5912   |
+|coi     |2320          |2159              |4201   |
+|nd2     |4276          |4232              |6101   |
+|nd3     |1221          |1111              |2360   |
+|RAG1    |1508          |1435              |2462   |
+|RAG2    |-             |595               |704    |
+|FGB5    |1071          |1113              |2192   |
+|FGB7    |1444          |1343              |1937   |
+|GAPHD   |962           |-                 |1941   |
+|MB      |1845          |1528              |2663   |
+|ODC     |1389          |1106              |2406   |
+|TGFB2   |-             |731               |1532   |
+|RHO     |-             |492               |614    |
+|ACO1    |-             |-                 |498    |
+|MUSK    |-             |317               |951    |
+|AK1     |-             |-                 |361    |
+|CMOS    |-             |477               |664    |
+|MYC     |-             |280               |645    |
+
+
+
+
 [13/02/2015] All sequences updated. Last checks on new loci and recent publications to do.
 
 [20/11/2014] Updated all ODC
