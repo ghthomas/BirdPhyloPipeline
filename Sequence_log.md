@@ -1,7 +1,7 @@
 Log of updates to sequence data
 ===============================
 
-This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Additions of species or sequences will not generally be recorded.
+This file contains notes on revisions to the sequence accession file SequenceAccessions_working.csv. The file SequenceAccessions_Jetz_et_al.csv is not intended for editing. Specific details of additions of species or sequences will not generally be recorded.
 Changes to existing accessions (e.g. if species assignment in genbank is incorrect) should be documented.
 
 [03/02/2015] Accessions file completed. Added new loci (TGFB2, Rho1, ACO1, MUSK, AK1, RAG2, CMOS, MYC) plus synonym checks on species names. Total now 8067 species with at least one loci sequenced. Gene totals are below for Jetz et al, Burleigh et al (supermatrix) and new data.
