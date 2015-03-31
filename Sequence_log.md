@@ -6,26 +6,26 @@ Changes to existing accessions (e.g. if species assignment in genbank is incorre
 
 [03/02/2015] Accessions file completed. Added new loci (TGFB2, Rho1, ACO1, MUSK, AK1, RAG2, CMOS, MYC) plus synonym checks on species names. Total now 8067 species with at least one loci sequenced. Gene totals are below for Jetz et al, Burleigh et al (supermatrix) and new data.
 
-|  Loci  |  Jetz et al  |  Burleigh et al  |  New  |
-|:------:|:------------:|:----------------:|:-----:|
-|cytb    |4868          |4898              |5911   |
-|coi     |2320          |2159              |4200   |
-|nd2     |4276          |4232              |6101   |
-|nd3     |1221          |1111              |2360   |
-|RAG1    |1508          |1435              |2457   |
-|RAG2    |-             |595               |704    |
-|FGB5    |1071          |1113              |2186   |
-|FGB7    |1444          |1343              |1937   |
-|GAPHD   |962           |-                 |1941   |
-|MB      |1845          |1528              |2660   |
-|ODC     |1389          |1106              |2406   |
-|TGFB2   |-             |731               |1532   |
-|RHO     |-             |492               |614    |
-|ACO1    |-             |-                 |498    |
-|MUSK    |-             |317               |951    |
-|AK1     |-             |-                 |361    |
-|CMOS    |-             |477               |664    |
-|MYC     |-             |280               |645    |
+|  Loci  |  Jetz et al  |  Burleigh et al  |  New  | Type |
+|:------:|:------------:|:----------------:|:-----:|:----:|
+|cytb    |4868          |4898              |5911   |mt coding|
+|coi     |2320          |2159              |4200   |mt coding|
+|nd2     |4276          |4232              |6101   |mt coding|
+|nd3     |1221          |1111              |2360   |mt coding|
+|RAG1    |1508          |1435              |2457   |nuc coding|
+|RAG2    |-             |595               |704    |nuc coding|
+|FGB5    |1071          |1113              |2186   |nuc non-coding intron 5|
+|FGB7    |1444          |1343              |1937   |nuc non-coding intron 7|
+|GAPHD   |962           |-                 |1941   |nuc non-coding intron 11|
+|MB      |1845          |1528              |2660   |nuc non-coding intron 2|
+|ODC     |1389          |1106              |2406   |nuc non-coding introns 6 - 8|
+|TGFB2   |-             |731               |1532   |nuc non-coding intron 5|
+|RHO     |-             |492               |614    |nuc non-coding intron 1|
+|ACO1    |-             |-                 |498    |nuc non-coding intron 9|
+|MUSK    |-             |317               |951    |nuc non-coding intron 3|
+|AK1     |-             |-                 |361    |nuc non-coding intron 5|
+|CMOS    |-             |477               |664    |nuc coding|
+|MYC     |-             |280               |645    |nuc coding exon 3|
 
 
 
